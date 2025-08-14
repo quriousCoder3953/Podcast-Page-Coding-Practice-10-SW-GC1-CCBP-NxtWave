@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.home-top-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    text-align: left;
+    padding: 20px;
+    width: 100vw;
+    background-size: cover;
+    height: 200px;
+}
+
+.home-top-bg-title {
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: 500;
+    font-family: Roboto;
+}
+
+.home-bottom-bg-container {
+    background-color: #ffffff;
+    padding: 15px;
+    background-size: cover;
+}
+
+.speaker-card {
+    margin: 10px;
+}
+
+.speaker-image {
+    height: 112px;
+    width: 144px;
+}
+
+.speaker-card-text-container {
+    padding: 5px;
+    text-align: center;
+    font-family: Roboto;
+}
+
+.speaker-name {
+    font-size: 16px;
+    color: #151765;
+    font-weight: bold;
+}
+
+.total-episodes {
+    font-size: 16px;
+    color: #5a7184;
+}
+
+.details-top-bg-container {
+    background-color: #151765;
+    background-size: cover;
+    height: 170px;
+    padding: 10px;
+}
+
+.details-top-card {
+    padding: 10px;
+    margin: 5px;
+}
+
+.spacing-top-image {
+    margin-top: 10px;
+}
+
+.details-top-text-container {
+    color: #ffffff;
+    font-family: Roboto;
+    margin: 10px;
+}
+
+.details-top-subtitle {
+    font-size: 12px;
+}
+
+.details-top-title {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.details-top-description {
+    font-size: 12px;
+}
+
+.details-bottom-bg-container {
+    background-color: #ffffff;
+}
+
+.details-bottom-card {
+    padding: 10px;
+    margin: 20px;
+    padding-top: -10px;
+}
+
+.details-bottom-text-container {
+    font-family: Roboto;
+    margin-left: 7px;
+}
+
+.details-bottom-title {
+    font-size: 16px;
+    color: #151765;
+    font-weight: bold;
+}
+
+.details-bottom-description {
+    color: #5a7184;
+    font-size: 14px;
+}
+
+.details-bottom-runtime {
+    font-size: 10px;
+    color: #5a7184;
+    font-weight: bold;
+}
+
+.button-container {
+    margin: 20px;
+}
+
+.button {
+    background-color: #151765;
+    color: #ffffff;
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 12px;
+    width: 75px;
+    height: 24px;
+    border-radius: 25px;
+    border-width: 0px
+}
